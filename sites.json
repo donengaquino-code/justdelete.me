@@ -3556,6 +3556,16 @@
     },
 
     {
+        "name": "Noejux",
+        "url": "https://noejux.com/",
+        "difficulty": "impossible",
+        "notes": "This is a fraudulent site. Customer support explicitly refuses to delete accounts and prevents changing email addresses.",
+        "domains": [
+            "noejux.com"
+        ]
+    },
+
+    {
         "name": "NoIP",
         "url": "http://www.noip.com/members/account/delete.php",
         "difficulty": "easy",
@@ -5600,4 +5610,5 @@
             "zynga.com"
         ]
     }
+    
 ]
